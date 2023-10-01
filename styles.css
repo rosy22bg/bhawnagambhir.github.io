@@ -1,0 +1,166 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 36;
+    padding: 20;
+    background-color: #25242c;
+    text-align: center;
+}
+
+h1 {
+    color: #fff9f9;
+}
+
+h2 {
+    color: #fff9f9;
+}
+h3 {
+    color: #fff9f9;
+}
+p {
+    color: #fffffa;
+}
+/* Adjust margins for sections */
+.section {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+/* Adjust padding for paragraphs */
+p {
+    padding: 10px; /* Adjust the value as needed */
+}
+/* Adjust padding for paragraphs' top and bottom sides */
+p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/* Adjust padding for elements with the class 'content' */
+.content {
+    padding: 20px;
+}
+/* Adjust line height for paragraphs */
+p {
+    line-height: 2.0; /* Increase or decrease the value as needed */
+}
+/* Adjust margins for sections */
+.section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+/* Adjust margins for paragraphs */
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* Add left and right side margins to paragraphs */
+p {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h1 {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h3 {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h2 {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+/* Adjust line height for paragraphs */
+p {
+    line-height: 1.5; /* Increase or decrease the value as needed */
+}
+/* Adjust spacing around paragraphs */
+p {
+    margin-bottom: 20px;
+}
+/* Adjust the width and height of the video */
+video {
+    width: 240; /* Adjust the value as needed */
+    height: 125; /* Maintain the aspect ratio */
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center; /* Center align the content in the footer */
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column; /* Display children in a column */
+    align-items: center; /* Center align content horizontally */
+}
+
+.social-media a {
+    margin: 0 10px;
+}
+
+.social-media img {
+    width: 30px;
+    height: 30px;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.nav-list li {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Rest of your CSS styles */
